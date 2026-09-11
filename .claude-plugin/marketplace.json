@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "NU-EClub-marketplace",
+  "description": "E-Club plugins for Notion, Slack, and club workflow automation",
+  "owner": {
+    "name": "NU E-Club"
+  },
+  "plugins": [
+    {
+      "name": "e-club",
+      "description": "E-Club toolkit: Notion & Slack integration with quick workflows for tasks, messages, and event management",
+      "author": {
+        "name": "NU E-Club"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/NU-EClub/e-club-plugin.git",
+        "path": ".",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/NU-EClub/e-club-plugin"
+    }
+  ]
+}
