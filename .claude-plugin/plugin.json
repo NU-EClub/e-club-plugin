@@ -1,0 +1,9 @@
+{
+  "name": "e-club",
+  "description": "E-Club toolkit: Notion & Slack integration with quick workflows for tasks, messages, and event management",
+  "version": "1.0.0",
+  "author": {
+    "name": "E-Club Team"
+  },
+  "repository": "https://github.com/NU-EClub/e-club-plugin"
+}
